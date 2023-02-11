@@ -1,0 +1,76 @@
+.mainContainer{
+    width: 100wv;
+    height: 140vh;
+    /* border: solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #f1f3f4;
+    
+    }
+    .middlesec{
+        width: 93vw;
+        height: 100vh;
+        /* border: solid green; */
+        position: relative;
+        top: 17%;
+        border-radius:30px;
+        background-color: #abd343;  
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center;   */
+        align-items: center;
+    }
+    .heading{
+        width: 30%;
+        height: 10%;
+        /* border: solid white; */
+        text-align: center;
+        font-size: 43px;
+        position: relative;
+        top: 21%;
+    }
+    .mainProduct{
+        width: 50%;
+        height: 18%;
+        /* border : solid white; */
+        position: relative;
+        top:25%;
+        font-size: 70px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .buttonCon{
+        width: 15%;
+        height: 10%;
+        border : solid white;
+        position: relative;
+        top:26%;
+        border-radius: 30px;
+    }
+    .buttontag{
+        width: 100%;
+        height: 100%;
+        color:white;
+        background-color: black;
+        font-size: 22px;
+        border-radius: 30px;
+    }
+    .lowerMiddleSec{
+        width: 15;
+        height: 10%;
+        /* border: solid whitesmoke; */
+        position: relative;
+        top:30%;
+        font-weight: bolder;
+        font-size: 22px;
+        text-decoration: underline;
+    }
+    .lower{
+        width: 15;
+        height: 10%;
+        /* border: solid whitesmoke; */
+        position: relative;
+        top:28%;
+        font-size: 25px;
+    }
